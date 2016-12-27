@@ -20,4 +20,4 @@ Output:
 
 ## Installation
 
-Place the file and src folder in your project directory, and load "generator.lisp" from CLISP interpreter or from your CLISP script.
+Place the file and src folder in your project directory, and load "main.lisp" from CLISP interpreter or from your CLISP script.
