@@ -21,3 +21,7 @@ Output:
 ## Installation
 
 Place the file and src folder in your project directory, and load "main.lisp" from CLISP interpreter or from your CLISP script.
+
+## Todo
+* Add a set of further svg tags that can be generated.
+* Implemement a v-dom and do a diff of the scene graph to do selective rendering.
